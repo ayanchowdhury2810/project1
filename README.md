@@ -1,2 +1,2 @@
 # project1
-Webpage created with the help of MERN stack
+Webpage created using MERN stack
